@@ -1,4 +1,4 @@
-## Diagnostic Questions
+## Quiz Questions
 
 #### Q1. Select the option that displays IAM roles from general to specific.
 
