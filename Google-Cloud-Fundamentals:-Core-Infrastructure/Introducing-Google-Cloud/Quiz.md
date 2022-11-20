@@ -1,4 +1,4 @@
-## Diagnostic Questions
+## Quiz Questions
 
 #### Q1. Why might a Google Cloud customer use resources in several zones within a region?
 
