@@ -3,7 +3,7 @@
 #### Q1 What are the four golden signals?
 
 - [ ] Availability, durability, scalability, resiliency.
-- [] Get, post, put, delete.
+- [ ] Get, post, put, delete.
 - [x] Latency, traffic, saturation, errors.
 - [ ] IKPIs, SLIs, SLOs, SLAs.
 
