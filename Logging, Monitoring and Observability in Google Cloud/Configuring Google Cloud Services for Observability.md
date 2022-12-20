@@ -18,6 +18,6 @@ Management wants to see analysis of resources by the development team, departmen
 #### Q3 Which statement below is false?
 
 - [ ] Workspaces can include resources from multiple projects.
-- [] Workspaces can include AWS resources.
+- [ ] Workspaces can include AWS resources.
 - [x] Each project can be in only one workspace.
 - [ ] You can allow other users to view your workspace using IAM.
