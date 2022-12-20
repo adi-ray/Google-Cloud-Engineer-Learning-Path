@@ -19,6 +19,6 @@
 #### Q3 Your manager wants a daily report of resource utilization by application. Where would the best export sink be?
 
 -[x]BigQuery
--[Pub/Sub
--[Cloud Storage
+-[]Pub/Sub
+-[]Cloud Storage
 -[]Spanner
